@@ -29,6 +29,12 @@ parent = "Pages"
 name = "Authors"
 pageRef = "/authors"
 
+[[main]]
+parent = "Pages"
+name = "Portfolio"
+url = "https://abtsegaportfolio.vercel.app/"
+external = true
+
 
 
 
