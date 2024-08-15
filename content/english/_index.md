@@ -1,12 +1,12 @@
 ---
 # Banner
 banner:
-  title: "Exploring the Ethereal Nexus of Security and Technology with Abtsega's blog"
+  title: "Security and Technology with Abtsega's blog"
 
   image: "/images/banner.svg"
   button:
     enable: true
-    label: "Read Blogs"
+    label: "Blogs"
     link: "/blog"
 
 # Features
