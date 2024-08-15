@@ -91,6 +91,10 @@ Both courses offer flexibility, but Google’s course might be better suited for
 
 ### Conclusion:
 Both the Google and Microsoft cybersecurity certifications offer valuable knowledge and skills. Your choice should depend on your current level of expertise, your career goals, and the specific tools and environments you plan to work with. But why choose just one? Embrace the power of comparison and explore both—it’s the best way to learn and grow in this dynamic field.
+
+![Alt text](/images/cyber2.jpg)     
+
+ ![Alt text](/images/cybe1.jpg)
 ### To access both the courses:
 https://www.coursera.org/professional-certificates/google-cybersecurity
 
