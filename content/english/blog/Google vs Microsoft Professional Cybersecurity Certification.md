@@ -2,7 +2,7 @@
 title: "Google vs Microsoft: Professional Cybersecurity Certification"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2024-08-15T05:00:00Z
 image: "/assets/images/image-placeholder.png"
 categories: ["Application", "Data"]
 author: "Abtsega"
