@@ -6,7 +6,7 @@ date: 2022-04-04T05:00:00Z
 image: "/assets/images/image-placeholder.png"
 categories: ["Application", "Data"]
 author: "Abtsega"
-tags: ["Security", "Networking"]
+tags: ["Web Security"]
 draft: false
 image: "/images/http.png"
 ---

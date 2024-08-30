@@ -6,7 +6,7 @@ date: 2024-08-15T05:00:00Z
 image: "/assets/images/image-placeholder.png"
 categories: ["Application", "Data"]
 author: "Abtsega"
-tags: ["Security", "Networking"]
+tags: ["Education & Certification"]
 draft: false
 image: "/images/googlecyber.jpg"
 ---
