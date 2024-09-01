@@ -8,6 +8,18 @@ banner:
     enable: true
     label: "Blogs"
     link: "/blog"
+social:
+  - name: github
+    icon: fa-brands fa-github
+    link: https://github.com/abtsega123
+
+  - name: Credly
+    icon: fa-solid fa-award
+    link: https://www.credly.com/users/abtsega-tesfaye-chufare.b9c99beb
+
+  - name: linkedin
+    icon: fa-brands fa-linkedin
+    link: https://www.linkedin.com/in/abtsega-tesfaye-2564361ba/
     
 widgets:
 sidebar: "categories"

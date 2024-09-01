@@ -145,9 +145,7 @@ In a field that is constantly evolving, continuous learning is not just an optio
 
 As technology continues to advance, I am committed to staying at the forefront of these developments, always ready to adapt and innovate.
 
-### **Call to Action: Join the Revolution**
 
-If you’re interested in AI, cybersecurity, or the fascinating intersection of the two, I highly recommend exploring courses like the one offered by the University of Turku. The knowledge you gain will be invaluable, not just for your career, but for understanding and shaping the future of technology. Don’t miss the opportunity to be part of this exciting and rapidly evolving field.
 
 ---
 

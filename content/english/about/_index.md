@@ -2,7 +2,7 @@
 title: "Hey, I am Abtsega Tesfaye!"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/me.jpg"
+image: "/images/mephotooo.jpeg"
 draft: false
 ---
 
