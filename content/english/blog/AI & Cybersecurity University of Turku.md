@@ -2,7 +2,7 @@
 title: "AI & Cybersecurity Course at the University of Turku"
 meta_title: ""
 description: "this is meta description"
-date: 2024-08-15T05:00:00Z
+date: 2024-09-31T05:00:00Z
 image: "/assets/images/image-placeholder.png"
 categories: ["Education & Certification"]
 author: "Abtsega"
