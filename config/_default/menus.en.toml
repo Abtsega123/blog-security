@@ -35,6 +35,12 @@ name = "Portfolio"
 url = "https://abtsegaportfolio.vercel.app/"
 external = true
 
+[[main]]
+parent = "Pages"
+name = "Presetation"
+url = "https://www.canva.com/design/DAGWYX-yVjk/HV6egIbrrxAaPsWWG1hZjw/view?utm_content=DAGWYX-yVjk&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+external = true
+
 
 
 
